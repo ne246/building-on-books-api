@@ -1,4 +1,4 @@
-*(Note: Images were taken from a google doc for convience)*
+*(Note: Images were taken from a google doc for convenience)*
 # **Basic Endpoints & Features**
 **GET /api/books (all books):**
 ![1](images/1.png)
